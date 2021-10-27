@@ -659,6 +659,7 @@ input.overlay-search {
 }
 .site-wrapper {
 	padding-top: 174px;
+	overflow:hidden;
 }
 .menu-social ul {
 	justify-content: center;
